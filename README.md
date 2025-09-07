@@ -15,9 +15,9 @@ This project was developed as part of my **academic coursework**, where I contri
 
 ---
 
+👉 Clik on image to Watch on YouTube
 ## 🎥 Demo Video
 [![Line Following Robot](3-Media/thumbnail.png)](https://www.youtube.com/shorts/1hiKYBtfuLc?si=EGTvTnbu91A_ceCK)
-
 
 
 
