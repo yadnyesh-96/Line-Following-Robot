@@ -20,6 +20,8 @@ This project was developed as part of my **academic coursework**, where I contri
 ## 📸 Media
 
 ## 🎥 Demo Video
+[![Line Following Robot](3-Media/thumbnail.png)](https://youtu.be/your-video-link)
+
 👉 [Watch on YouTube] https://www.youtube.com/shorts/1hiKYBtfuLc?si=EGTvTnbu91A_ceCK  
 
 
