@@ -56,8 +56,5 @@ This project was developed as part of my **academic coursework**, where I contri
 ☆ Integrate with Raspberry Pi for vision-based navigation.
 
 
-# Line Following Robot
-
-This project demonstrates a **Line Following Robot** built using Arduino and motor driver modules.
 
 ![Line Following Robot](3-Media/Line-Following-img.png)
